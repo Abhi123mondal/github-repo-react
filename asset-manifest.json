@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github-repo-react/static/css/main.47cafd82.css",
+    "main.js": "/github-repo-react/static/js/main.fb64f97c.js",
+    "index.html": "/github-repo-react/index.html",
+    "main.47cafd82.css.map": "/github-repo-react/static/css/main.47cafd82.css.map",
+    "main.fb64f97c.js.map": "/github-repo-react/static/js/main.fb64f97c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47cafd82.css",
+    "static/js/main.fb64f97c.js"
+  ]
+}
